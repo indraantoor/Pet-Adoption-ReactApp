@@ -135,3 +135,5 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 Project Link: [https://github.com/indraantoor/Pet-Adoption-ReactApp](https://github.com/indraantoor/Pet-Adoption-ReactApp)
+
+<a href="https://in.linkedin.com/in/indraantoor"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" /></a>
