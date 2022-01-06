@@ -7,7 +7,10 @@
     "dev": "parcel src/index.html",
     "format": "prettier \"src/**/*.{js, html}\" --write",
     "lint": "eslint \"src/**/*.{js, jsx}\" --quiet",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html — open",
+    "build": "parcel build src/index.html",
+    "heroku-postbuild" : "parcel build src/index.html"
   },
   "keywords": [],
   "author": "",
