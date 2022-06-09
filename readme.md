@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/indraantoor/Pet-Adoption-ReactApp">
-    <img src="https://i.ibb.co/dM7WC4p/main-page.png" alt="main-page" border="0" />
+    <img src="https://i.ibb.co/HxbhZQ7/main-page.png" alt="main-page" border="0" />
   </a>
 
   <h1 align="center">Pet Adoption Application</h1>
@@ -44,7 +44,7 @@
 
 ## About The Project
 
-<img src="https://i.ibb.co/dM7WC4p/main-page.png" alt="main-page" border="0" />
+<img src="https://i.ibb.co/HxbhZQ7/main-page.png" alt="main-page" border="0" />
 
 This is place where people can search for animals to adopt as their pets. Get listings according to the selected animal and the breed.
 
